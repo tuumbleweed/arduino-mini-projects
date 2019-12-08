@@ -1,7 +1,7 @@
 # Lamp with controllable brightness
 
 # Circuit diagram
-![Circuit diagram](circuit_diagram.jpg?raw=true "Title")
+![Circuit diagram](img/circuit_diagram.jpg?raw=true "Nicely Drawn")
 
 # Working model
-![Circuit diagram](working_model.jpg?raw=true "Title")
+![Working model](img/working_model.jpg?raw=true "Working model")
