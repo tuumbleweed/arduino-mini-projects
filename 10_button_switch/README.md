@@ -1,4 +1,4 @@
-# A "mixer" with 3 speeds
+# A switchable lamp
 
 # Circuit diagram
 ![Circuit diagram](img/circuit_diagram.jpg?raw=true "Book photo")
